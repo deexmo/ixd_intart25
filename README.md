@@ -1,4 +1,4 @@
-ry# Welcome to Shneion's First Github Repo
+# Welcome to Shneion's First Github Repo
 
 This repo will host all my readings and projects for Art 356 course =))))))
 
