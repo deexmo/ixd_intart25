@@ -16,4 +16,4 @@ Add more text
 
 **This text is both bold *and italicized***
 
-![This is a water bear](https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw16039191/56240702533326~x20040057.jpg?sw=800&sh=800&sm=fit)
+![This is a water bear]([https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw16039191/56240702533326~x20040057.jpg?sw=800&sh=800&sm=fit](https://i.natgeofe.com/n/f0a339b8-a3b0-4189-a75b-22c34000f454/og-image-tardigrades-sciencesource_ss2437867_16x9.jpg?w=1200))
