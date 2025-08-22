@@ -7,3 +7,13 @@ This is the [syntax](https://docs.github.com/en/get-started/writing-on-github/ge
 This is a link [to the p5js site](https://p5js.org/)
 
 Add more text
+
+## This is Text Styles
+
+**Bold Ayo**
+
+*This text is italicized*
+
+**This text is both bold *and italicized***
+
+![This is a water bear](https://www.buildabear.com/dw/image/v2/BBNG_PRD/on/demandware.static/-/Sites-buildabear-master/default/dw16039191/56240702533326~x20040057.jpg?sw=800&sh=800&sm=fit)
