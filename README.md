@@ -16,4 +16,4 @@ Add more text
 
 **This text is both bold *and italicized***
 
-![This is a water bear](https://www.shutterstock.com/image-illustration/tardigrades-swimming-microscopic-moss-piglets-600nw-2278396481.jpg)
+![This is a water bear](https://media.tenor.com/uJtadN6ZM7oAAAAM/donkey-stare.gif)
