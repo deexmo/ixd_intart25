@@ -1,4 +1,4 @@
-# Welcome to Shneion's First Github Repo
+ry# Welcome to Shneion's First Github Repo
 
 This repo will host all my readings and projects for Art 356 course =))))))
 
@@ -20,5 +20,5 @@ Add more text
 
 ### Journal Entries
 
-[Visit my journal](journal/82625.md)
+[Visit my journal](journal/82625entry.md)
 
