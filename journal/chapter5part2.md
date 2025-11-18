@@ -1,3 +1,5 @@
 # Chapter 5 - Part 2
 
+The book so far really explains why a lot of errors are not your fault, but the design's fault. And this part of the chapter is no different. Things like confusing buttons, unclear warnings, or tricky computer systems make it easy to mess up. I liked the Confirmation and Error Messages section. It was talking about how even something that seems safe, like a confirmation message, can fail if the user isn’t paying full attention. The example of closing the wrong window stuck out to me. Sometimes it’s a slip and sometimes it can be a mistake.
 
+I can relate to things like this because there was a time before that I accidentally closed a window and lost all the work I was doing on that window. Even thinking about it now irks me. And I blamed myself because I thought I was being careless. Maybe I was, but still, it could have been be the result of bad design. I like how the text explains that designers could make the file or window more noticeable or make actions reversible, like with Undo or hidden backups. That is a thing now though. But it wasnt at the time I had this mistake.
